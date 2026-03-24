@@ -1,0 +1,1031 @@
+[
+  {
+    "keywords": [
+      "securities",
+      "security"
+    ],
+    "response": "24/7 security is available on campus."
+  },
+  {
+    "keywords": [
+      "attendance",
+      "attendances",
+      "rule",
+      "rules"
+    ],
+    "response": "A minimum of 75% attendance is mandatory to appear for the end-semester examinations."
+  },
+  {
+    "keywords": [
+      "gym",
+      "gyms"
+    ],
+    "response": "A well-equipped gym is available on campus."
+  },
+  {
+    "keywords": [
+      "cutoff",
+      "cutoffs",
+      "entrance exam",
+      "entrance exams",
+      "entranceexam"
+    ],
+    "response": "Admissions are based on entrance exams and cutoff marks."
+  },
+  {
+    "keywords": [
+      "admission",
+      "admissions",
+      "applies",
+      "apply",
+      "enroll",
+      "enrolls",
+      "process"
+    ],
+    "response": "Admissions are open for the 2024 session. You can apply online through our official portal or visit the campus for direct admission."
+  },
+  {
+    "keywords": [
+      "age",
+      "ages",
+      "old",
+      "olds"
+    ],
+    "response": "Age is just a number! But if you must know, I was 'born' very recently to help you with college questions."
+  },
+  {
+    "keywords": [
+      "medical",
+      "medicals"
+    ],
+    "response": "Basic medical facilities are available."
+  },
+  {
+    "keywords": [
+      "computer science",
+      "computer sciences",
+      "computerscience",
+      "cse",
+      "cses"
+    ],
+    "response": "CSE focuses on programming, AI, and software development."
+  },
+  {
+    "keywords": [
+      "certificate",
+      "certificates"
+    ],
+    "response": "Certificates are issued after course completion."
+  },
+  {
+    "keywords": [
+      "offline classe",
+      "offline classes",
+      "offlineclasses"
+    ],
+    "response": "Classes are primarily conducted offline."
+  },
+  {
+    "keywords": [
+      "bu",
+      "bus",
+      "transport",
+      "transports"
+    ],
+    "response": "College bus facilities are available across the city."
+  },
+  {
+    "keywords": [
+      "college time",
+      "college times",
+      "collegetime",
+      "timing",
+      "timings"
+    ],
+    "response": "College timing is from 9 AM to 4 PM."
+  },
+  {
+    "keywords": [
+      "credit",
+      "credits"
+    ],
+    "response": "Courses are based on credit system."
+  },
+  {
+    "keywords": [
+      "ece",
+      "eces"
+    ],
+    "response": "ECE deals with electronics, circuits, and communication systems."
+  },
+  {
+    "keywords": [
+      "semester",
+      "semesters"
+    ],
+    "response": "Each academic year has two semesters."
+  },
+  {
+    "keywords": [
+      "education loan",
+      "education loans",
+      "educationloan",
+      "loan",
+      "loans"
+    ],
+    "response": "Education loan assistance is available through partner banks."
+  },
+  {
+    "keywords": [
+      "criteria",
+      "criterias",
+      "eligibilities",
+      "eligibility"
+    ],
+    "response": "Eligibility depends on course. For engineering, 12th with PCM is required."
+  },
+  {
+    "keywords": [
+      "email",
+      "emails"
+    ],
+    "response": "Email us at info@college.com."
+  },
+  {
+    "keywords": [
+      "btech",
+      "btechs",
+      "engineering",
+      "engineerings"
+    ],
+    "response": "Engineering branches include CSE, IT, ECE, Mechanical, and Civil. High focus on hands-on practical learning."
+  },
+  {
+    "keywords": [
+      "exam",
+      "exams"
+    ],
+    "response": "Exams are conducted semester-wise."
+  },
+  {
+    "keywords": [
+      "exam",
+      "exams",
+      "result",
+      "results",
+      "schedule",
+      "schedules",
+      "test",
+      "tests"
+    ],
+    "response": "Exams are held twice a year (Semester system). The schedule and results are posted on the student dashboard."
+  },
+  {
+    "keywords": [
+      "refund",
+      "refunds"
+    ],
+    "response": "Fee refund policies are as per college rules."
+  },
+  {
+    "keywords": [
+      "criteria",
+      "criterias",
+      "eligibilities",
+      "eligibility",
+      "mark",
+      "marks",
+      "requirement",
+      "requirements"
+    ],
+    "response": "For B.Tech, you need at least 60% in Physics, Chemistry, and Mathematics in your 12th grade. Entry exams are also required."
+  },
+  {
+    "keywords": [
+      "internet",
+      "internets",
+      "wifi",
+      "wifis"
+    ],
+    "response": "Free Wi-Fi is available across the campus."
+  },
+  {
+    "keywords": [
+      "awesome",
+      "awesomes",
+      "cool",
+      "cools",
+      "great",
+      "greats",
+      "nice",
+      "nices"
+    ],
+    "response": "Glad you think so! I strive to be as helpful as possible."
+  },
+  {
+    "keywords": [
+      "afternoon",
+      "afternoons",
+      "good afternoon",
+      "good afternoons",
+      "goodafternoon"
+    ],
+    "response": "Good afternoon! Hope you're having a productive day. How can I assist you?"
+  },
+  {
+    "keywords": [
+      "evening",
+      "evenings",
+      "good evening",
+      "good evenings",
+      "goodevening"
+    ],
+    "response": "Good evening! Need any help with admission or course details?"
+  },
+  {
+    "keywords": [
+      "good morning",
+      "good mornings",
+      "goodmorning",
+      "morning",
+      "mornings"
+    ],
+    "response": "Good morning! How can I help you with your college enquiries today?"
+  },
+  {
+    "keywords": [
+      "good night",
+      "good nights",
+      "goodnight",
+      "night",
+      "nights"
+    ],
+    "response": "Good night! I'm here if you have any late-night queries before you head to bed."
+  },
+  {
+    "keywords": [
+      "bye",
+      "byes",
+      "goodbye",
+      "goodbyes",
+      "see ya",
+      "see yas",
+      "seeya"
+    ],
+    "response": "Goodbye! Feel free to come back if you have more questions. Have a great day!"
+  },
+  {
+    "keywords": [
+      "bye",
+      "byes",
+      "goodbye",
+      "goodbyes",
+      "see you",
+      "see yous",
+      "seeyou"
+    ],
+    "response": "Goodbye! Have a great day."
+  },
+  {
+    "keywords": [
+      "greeting",
+      "greetings",
+      "heies",
+      "hello",
+      "hellos",
+      "hey",
+      "hi",
+      "his"
+    ],
+    "response": "Hello! I'm your College Assistant. How can I help you today?"
+  },
+  {
+    "keywords": [
+      "hostel",
+      "hostels"
+    ],
+    "response": "Hostel facilities are available for both boys and girls."
+  },
+  {
+    "keywords": [
+      "hostel fee",
+      "hostel fees",
+      "hostelfee"
+    ],
+    "response": "Hostel fee is approximately \u20b970,000 per year."
+  },
+  {
+    "keywords": [
+      "hostel rule",
+      "hostel rules",
+      "hostelrules"
+    ],
+    "response": "Hostel students must follow strict timing and discipline."
+  },
+  {
+    "keywords": [
+      "identities",
+      "identity",
+      "what are you",
+      "what are yous",
+      "whatareyou",
+      "who are you",
+      "who are yous",
+      "whoareyou"
+    ],
+    "response": "I am a simple AI chatbot designed to help you with college-related enquiries such as fees, admissions, and courses."
+  },
+  {
+    "keywords": [
+      "help",
+      "helps",
+      "what can you do",
+      "what can you dos",
+      "whatcanyoudo"
+    ],
+    "response": "I can answer questions about tuition fees, available courses, admission processes, scholarships, hostel facilities, and more! Just ask away."
+  },
+  {
+    "keywords": [
+      "weather",
+      "weathers"
+    ],
+    "response": "I don't have a thermometer, but the learning atmosphere here is always bright and sunny!"
+  },
+  {
+    "keywords": [
+      "how are you",
+      "how are yous",
+      "how's it going",
+      "how's it goings",
+      "how'sitgoing",
+      "howareyou"
+    ],
+    "response": "I'm doing great, thank you for asking! Ready to help you with your college questions."
+  },
+  {
+    "keywords": [
+      "angries",
+      "angry",
+      "mad",
+      "mads"
+    ],
+    "response": "I'm sorry if I frustrated you. I'm still learning! Please try rephrasing your question."
+  },
+  {
+    "keywords": [
+      "bad",
+      "bads",
+      "sad",
+      "sads",
+      "unhappies",
+      "unhappy"
+    ],
+    "response": "I'm sorry to hear that. I hope your day gets better! Can I help you with something to take your mind off it?"
+  },
+  {
+    "keywords": [
+      "internship",
+      "internships",
+      "practical",
+      "practicals",
+      "training",
+      "trainings"
+    ],
+    "response": "Industrial training and internships are part of the curriculum in the third and final years of all programs."
+  },
+  {
+    "keywords": [
+      "foreign",
+      "foreigns",
+      "international",
+      "internationals",
+      "visa",
+      "visas"
+    ],
+    "response": "International students can apply through the NRI quota. We provide full assistance for visa documentation."
+  },
+  {
+    "keywords": [
+      "internship",
+      "internships"
+    ],
+    "response": "Internship opportunities are provided through our placement cell."
+  },
+  {
+    "keywords": [
+      "sleepies",
+      "sleepy",
+      "tired",
+      "tireds"
+    ],
+    "response": "Maybe a coffee break? Our campus cafeteria serves great coffee to kept you going!"
+  },
+  {
+    "keywords": [
+      "attendance",
+      "attendances"
+    ],
+    "response": "Minimum 75% attendance is required."
+  },
+  {
+    "keywords": [
+      "online class",
+      "online classe",
+      "online classes",
+      "onlineclass",
+      "onlineclasses"
+    ],
+    "response": "Online classes are available when required."
+  },
+  {
+    "keywords": [
+      "business",
+      "management",
+      "managements",
+      "mba",
+      "mbas"
+    ],
+    "response": "Our MBA program offers specializations in HR, Finance, Marketing, and International Business. AICTE approved."
+  },
+  {
+    "keywords": [
+      "campu",
+      "campus"
+    ],
+    "response": "Our campus is green, spacious, and student-friendly."
+  },
+  {
+    "keywords": [
+      "address",
+      "campu",
+      "campus",
+      "location",
+      "locations",
+      "where",
+      "wheres"
+    ],
+    "response": "Our campus is located at 123 University Road, Innovation City. We have a 50-acre lush green campus."
+  },
+  {
+    "keywords": [
+      "ragging",
+      "raggings"
+    ],
+    "response": "Our campus is strictly anti-ragging."
+  },
+  {
+    "keywords": [
+      "book",
+      "books",
+      "libraries",
+      "library",
+      "research",
+      "researchs"
+    ],
+    "response": "Our central library has over 500,000 books, journals, and digital resources. It's open 12 hours a day."
+  },
+  {
+    "keywords": [
+      "address"
+    ],
+    "response": "Our college is located in Chennai, Tamil Nadu."
+  },
+  {
+    "keywords": [
+      "ranking",
+      "rankings"
+    ],
+    "response": "Our college is ranked among top institutions in the region."
+  },
+  {
+    "keywords": [
+      "faculties",
+      "faculty",
+      "professor",
+      "professors",
+      "teacher",
+      "teachers"
+    ],
+    "response": "Our faculty consists of PhD holders from top institutions worldwide with extensive industry and research experience."
+  },
+  {
+    "keywords": [
+      "libraries",
+      "library"
+    ],
+    "response": "Our library has thousands of books, journals, and digital resources."
+  },
+  {
+    "keywords": [
+      "auditorium",
+      "auditoriums",
+      "seminar",
+      "seminars"
+    ],
+    "response": "Our main auditorium has a seating capacity of 1,000 and is equipped with advanced audio-visual systems."
+  },
+  {
+    "keywords": [
+      "job",
+      "jobs",
+      "placement",
+      "placements",
+      "recruitment",
+      "recruitments",
+      "salaries",
+      "salary"
+    ],
+    "response": "Our placement cell has a 95% record. Top recruiters include Google, Microsoft, Amazon, and Tata Motors. Average package is $80,000."
+  },
+  {
+    "keywords": [
+      "parking",
+      "parkings"
+    ],
+    "response": "Parking facilities are available for students."
+  },
+  {
+    "keywords": [
+      "cancel",
+      "cancels",
+      "refund",
+      "refunds",
+      "withdrawal",
+      "withdrawals"
+    ],
+    "response": "Refund policies are as per UGC guidelines. Request must be submitted within 15 days of admission for full refund."
+  },
+  {
+    "keywords": [
+      "result",
+      "results"
+    ],
+    "response": "Results are published online on the college portal."
+  },
+  {
+    "keywords": [
+      "internship stipend",
+      "internship stipends",
+      "internshipstipend"
+    ],
+    "response": "Some internships offer stipends based on company."
+  },
+  {
+    "keywords": [
+      "arrear",
+      "arrears"
+    ],
+    "response": "Students can clear arrears in the next semester."
+  },
+  {
+    "keywords": [
+      "leave",
+      "leaves"
+    ],
+    "response": "Students must apply for leave in advance."
+  },
+  {
+    "keywords": [
+      "id card",
+      "id cards",
+      "idcard"
+    ],
+    "response": "Students must carry ID cards inside campus."
+  },
+  {
+    "keywords": [
+      "rule",
+      "rules"
+    ],
+    "response": "Students must follow discipline and attendance rules."
+  },
+  {
+    "keywords": [
+      "holidaies",
+      "holiday"
+    ],
+    "response": "Sundays and public holidays are off."
+  },
+  {
+    "keywords": [
+      "c",
+      "coding",
+      "codings",
+      "computer science",
+      "computer sciences",
+      "computerscience",
+      "cs",
+      "it",
+      "its"
+    ],
+    "response": "The CS department is our hallmark, with modern labs and a focus on AI, Cloud Computing, and Cybersecurity."
+  },
+  {
+    "keywords": [
+      "cost",
+      "costs",
+      "fee",
+      "fees",
+      "payment",
+      "payments",
+      "tuition",
+      "tuitions"
+    ],
+    "response": "The annual tuition fee for B.Tech is $2,500. For MBA, it's $3,000. Scholarships are available for meritorious students."
+  },
+  {
+    "keywords": [
+      "cost",
+      "costs",
+      "fee",
+      "fees",
+      "price",
+      "prices"
+    ],
+    "response": "The average fee is \u20b91,00,000 per year depending on the course."
+  },
+  {
+    "keywords": [
+      "average package",
+      "average packages",
+      "averagepackage"
+    ],
+    "response": "The average package is around \u20b94 LPA."
+  },
+  {
+    "keywords": [
+      "canteen",
+      "canteens"
+    ],
+    "response": "The canteen offers affordable and hygienic food."
+  },
+  {
+    "keywords": [
+      "principal",
+      "principals"
+    ],
+    "response": "The college is headed by a highly experienced principal."
+  },
+  {
+    "keywords": [
+      "distance",
+      "distances"
+    ],
+    "response": "The college is located about 15 km from the city center."
+  },
+  {
+    "keywords": [
+      "connectivities",
+      "connectivity",
+      "internet",
+      "internets",
+      "wifi",
+      "wifis"
+    ],
+    "response": "The entire campus is Wi-Fi enabled with high-speed internet connectivity for students and staff."
+  },
+  {
+    "keywords": [
+      "highest package",
+      "highest packages",
+      "highestpackage"
+    ],
+    "response": "The highest package offered is around \u20b912 LPA."
+  },
+  {
+    "keywords": [
+      "atm",
+      "atms",
+      "banking",
+      "bankings"
+    ],
+    "response": "There is an on-campus bank branch (State Bank) and two 24/7 ATMs available for students."
+  },
+  {
+    "keywords": [
+      "dress code",
+      "dress codes",
+      "dresscode",
+      "uniform",
+      "uniforms"
+    ],
+    "response": "There is no strict uniform except on Wednesdays and special formal events where student blazers are required."
+  },
+  {
+    "keywords": [
+      "placement companie",
+      "placement companies",
+      "placementcompanies"
+    ],
+    "response": "Top companies like TCS, Infosys, and Wipro visit campus."
+  },
+  {
+    "keywords": [
+      "uniform",
+      "uniforms"
+    ],
+    "response": "Uniform is mandatory on specified days."
+  },
+  {
+    "keywords": [
+      "affiliation",
+      "affiliations"
+    ],
+    "response": "We are affiliated with a reputed university."
+  },
+  {
+    "keywords": [
+      "event",
+      "events",
+      "fest",
+      "fests"
+    ],
+    "response": "We conduct technical and cultural fests every year."
+  },
+  {
+    "keywords": [
+      "cafeteria",
+      "cafeterias",
+      "canteen",
+      "canteens",
+      "food",
+      "foods"
+    ],
+    "response": "We have a multi-cuisine cafeteria serving hygienic food, including North Indian, South Indian, and Continental options."
+  },
+  {
+    "keywords": [
+      "alumni",
+      "alumnis",
+      "graduate",
+      "graduates",
+      "network",
+      "networks"
+    ],
+    "response": "We have a strong global alumni network of over 10,000 members, helping current students with mentorship and placements."
+  },
+  {
+    "keywords": [
+      "job",
+      "jobs",
+      "placement",
+      "placements"
+    ],
+    "response": "We have a strong placement cell with top companies visiting every year."
+  },
+  {
+    "keywords": [
+      "doctor",
+      "doctors",
+      "health",
+      "healths",
+      "hospital",
+      "hospitals",
+      "medical",
+      "medicals"
+    ],
+    "response": "We have an on-campus health center with a resident doctor and ambulance service for emergencies."
+  },
+  {
+    "keywords": [
+      "club",
+      "clubs"
+    ],
+    "response": "We have coding, robotics, cultural, and sports clubs."
+  },
+  {
+    "keywords": [
+      "faculties",
+      "faculty",
+      "teacher",
+      "teachers"
+    ],
+    "response": "We have experienced and highly qualified faculty members."
+  },
+  {
+    "keywords": [
+      "activitie",
+      "activities",
+      "club",
+      "clubs",
+      "event",
+      "events",
+      "fest",
+      "fests"
+    ],
+    "response": "We have over 20 student clubs, including Robotics, Drama, Music, and Coding. Our annual fest 'Enigma' is a major highlight."
+  },
+  {
+    "keywords": [
+      "accommodation",
+      "accommodations",
+      "dorm",
+      "dorms",
+      "hostel",
+      "hostels",
+      "staies",
+      "stay"
+    ],
+    "response": "We have separate hostels for boys and girls with 24/7 security, Wi-Fi, and mess facilities. Fees start from $500 per semester."
+  },
+  {
+    "keywords": [
+      "cricket",
+      "crickets",
+      "fitness",
+      "football",
+      "footballs",
+      "gym",
+      "gyms",
+      "sport",
+      "sports"
+    ],
+    "response": "We have state-of-the-art sports facilities, including a football field, cricket ground, basketball court, and a modern gym."
+  },
+  {
+    "keywords": [
+      "lab",
+      "labs"
+    ],
+    "response": "We have well-equipped labs for all departments."
+  },
+  {
+    "keywords": [
+      "course",
+      "courses",
+      "program",
+      "programs"
+    ],
+    "response": "We offer CSE, ECE, IT, Mechanical, Civil, and MBA programs."
+  },
+  {
+    "keywords": [
+      "doctorate",
+      "doctorates",
+      "phd",
+      "phds",
+      "researcher",
+      "researchers"
+    ],
+    "response": "We offer PhD programs in various disciplines with fellowships for full-time researchers."
+  },
+  {
+    "keywords": [
+      "scholarship",
+      "scholarships"
+    ],
+    "response": "We offer merit-based and need-based scholarships."
+  },
+  {
+    "keywords": [
+      "course",
+      "courses",
+      "degree",
+      "degrees",
+      "program",
+      "programs",
+      "studies",
+      "study"
+    ],
+    "response": "We offer undergraduate and postgraduate programs in Engineering, Management, Arts, and Sciences. Popular courses include B.Tech, MBA, and B.Sc Computer Science."
+  },
+  {
+    "keywords": [
+      "financial aid",
+      "financial aids",
+      "financialaid",
+      "grant",
+      "grants",
+      "scholarship",
+      "scholarships"
+    ],
+    "response": "We offer up to 50% scholarships based on entrance exam scores and academic performance in high school."
+  },
+  {
+    "keywords": [
+      "bu",
+      "bus",
+      "shuttle",
+      "shuttles",
+      "transport",
+      "transports"
+    ],
+    "response": "We provide bus services from various parts of the city. Routine shuttles also run within the campus."
+  },
+  {
+    "keywords": [
+      "food",
+      "foods",
+      "mess"
+    ],
+    "response": "We provide hygienic and nutritious food in the hostel mess."
+  },
+  {
+    "keywords": [
+      "training",
+      "trainings"
+    ],
+    "response": "We provide soft skills and technical training for students."
+  },
+  {
+    "keywords": [
+      "sport",
+      "sports"
+    ],
+    "response": "We support various sports like cricket, football, and basketball."
+  },
+  {
+    "keywords": [
+      "funnies",
+      "funny",
+      "joke",
+      "jokes"
+    ],
+    "response": "Why did the student eat his homework? Because the teacher said it was a piece of cake!"
+  },
+  {
+    "keywords": [
+      "bored",
+      "boreds"
+    ],
+    "response": "Why not check out our student clubs? We have everything from Robotics to Drama!"
+  },
+  {
+    "keywords": [
+      "admission",
+      "admissions",
+      "applies",
+      "apply",
+      "how to join",
+      "how to joins",
+      "howtojoin"
+    ],
+    "response": "You can apply through our official website or visit the admission office."
+  },
+  {
+    "keywords": [
+      "call you",
+      "call yous",
+      "callyou",
+      "name",
+      "names"
+    ],
+    "response": "You can call me the College AI Assistant."
+  },
+  {
+    "keywords": [
+      "dropout",
+      "dropouts"
+    ],
+    "response": "You can contact admin for dropout procedures."
+  },
+  {
+    "keywords": [
+      "contact",
+      "contacts"
+    ],
+    "response": "You can contact us at +91-9876543210."
+  },
+  {
+    "keywords": [
+      "contact",
+      "contacts",
+      "email",
+      "emails",
+      "phone",
+      "phones",
+      "support",
+      "supports"
+    ],
+    "response": "You can reach us at info@college_name.edu or call +1-234-567-8900 for any enquiries."
+  },
+  {
+    "keywords": [
+      "document",
+      "documents"
+    ],
+    "response": "You need mark sheets, ID proof, and photos for admission."
+  },
+  {
+    "keywords": [
+      "food",
+      "foods",
+      "hungries",
+      "hungry"
+    ],
+    "response": "You should visit our multi-cuisine cafeteria! They serve some amazing snacks and meals."
+  },
+  {
+    "keywords": [
+      "helpful",
+      "helpfuls",
+      "thank",
+      "thank you",
+      "thank yous",
+      "thanks",
+      "thankyou"
+    ],
+    "response": "You're very welcome! Is there anything else I can assist you with?"
+  }
+]
