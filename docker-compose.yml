@@ -4,7 +4,7 @@ services:
   ai-service:
     build: ./ai-service
     ports:
-      - "5050:5050"
+      - "5056:5056"
     networks:
       - chatbot-network
 
@@ -13,7 +13,7 @@ services:
     ports:
       - "3030:3030"
     environment:
-      - AI_SERVICE_URL=http://ai-service:5050/chat
+      - AI_SERVICE_URL=http://ai-service:5056/chat
     depends_on:
       - ai-service
     networks:

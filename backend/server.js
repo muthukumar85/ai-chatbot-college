@@ -4,7 +4,7 @@ const cors = require('cors');
 
 const app = express();
 const PORT = 3030;
-const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://ai-service:5050/chat';
+const AI_SERVICE_URL = process.env.AI_SERVICE_URL || 'http://ai-service:5056/chat';
 
 app.use(cors());
 app.use(express.json());

@@ -36,8 +36,8 @@ def chat():
     for item in faqs:
         score = 0
         for keyword in item['keywords']:
-            # Check if keyword (as a whole word) is in the user's message
-            if keyword.lower() in user_words:
+            # Check if keyword (as a whole word or phrase) is in the user's message
+            if keyword.lower() in user_message:
                 score += 1
         
         if score > max_score:
@@ -50,4 +50,4 @@ def chat():
     return jsonify({"response": "Sorry, I don't understand. Can you rephrase or ask about fees, courses, or admission?"})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5050)
+    app.run(host='0.0.0.0', port=5056)

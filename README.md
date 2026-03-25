@@ -42,7 +42,7 @@ ai-chatbot-pg/
 4. **Access the Chatbot**:
    - **Frontend**: [http://localhost:3031](http://localhost:3031)
    - **Backend API**: [http://localhost:3030/chat](http://localhost:3030/chat)
-   - **AI Service**: [http://localhost:5050/chat](http://localhost:5050/chat)
+   - **AI Service**: [http://localhost:5056/chat](http://localhost:5056/chat)
 
 ## Verification Results
 
@@ -50,7 +50,7 @@ ai-chatbot-pg/
 | :--- | :--- | :--- | :--- |
 | **Frontend** | ✅ Ready | 3031 | Premium UI with animations |
 | **Backend** | ✅ Ready | 3030 | Request forwarding & CORS |
-| **AI Service** | ✅ Ready | 5050 | Keyword matching logic |
+| **AI Service** | ✅ Ready | 5056 | Keyword matching logic |
 
 ### Sample Queries to Try
 - "What are the fees for B.Tech?"

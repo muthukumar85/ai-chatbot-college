@@ -328,10 +328,14 @@
       "identity",
       "what are you",
       "what are yous",
-      "whatareyou",
       "who are you",
       "who are yous",
-      "whoareyou"
+      "whoareyou",
+      "creator",
+      "creators",
+      "developer",
+      "developers",
+      "built by"
     ],
     "response": "I am a simple AI chatbot designed to help you with college-related enquiries such as fees, admissions, and courses."
   },
