@@ -50,4 +50,4 @@ def chat():
     return jsonify({"response": "Sorry, I don't understand. Can you rephrase or ask about fees, courses, or admission?"})
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5056)
+    app.run(host='0.0.0.0', port=8005)

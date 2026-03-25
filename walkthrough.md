@@ -8,7 +8,7 @@ I have successfully built the complete full-stack chatbot application for colleg
 The entire application is containerized and ready for deployment.
 - **Frontend**: Port 3031
 - **Backend**: Port 3030
-- **AI Service**: Port 5056
+- **AI Service**: Port 8005
 
 ### 🧠 Intelligent FAQ Service
 - **Expanded Knowledge Base**: 100+ conversational and college-specific entries.
@@ -57,7 +57,7 @@ ai-chatbot-pg/
 4. **Access the Chatbot**:
    - **Frontend**: [http://localhost:3031](http://localhost:3031)
    - **Backend API**: [http://localhost:3030/chat](http://localhost:3030/chat)
-   - **AI Service**: [http://localhost:5056/chat](http://localhost:5056/chat)
+   - **AI Service**: [http://localhost:8005/chat](http://localhost:8005/chat)
 
 ## Verification Results
 
@@ -65,7 +65,7 @@ ai-chatbot-pg/
 | :--- | :--- | :--- | :--- |
 | **Frontend** | ✅ Ready | 3031 | Premium UI with animations |
 | **Backend** | ✅ Ready | 3030 | Request forwarding & CORS |
-| **AI Service** | ✅ Ready | 5056 | Keyword matching logic |
+| **AI Service** | ✅ Ready | 8005 | Keyword matching logic |
 
 ### Sample Queries to Try
 - "What are the fees for B.Tech?"
